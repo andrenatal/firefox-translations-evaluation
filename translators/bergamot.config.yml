@@ -10,9 +10,6 @@ models:
 vocabs:
   - SRCVOCAB
   - TRGVOCAB
-shortlist:
-    - SHORTLIST
-    - false
 beam-size: 1
 normalize: 1.0
 word-penalty: 0
